@@ -18,7 +18,7 @@ const handleClick = () => {
     navigator.geolocation.getCurrentPosition(async (position) => {
       try {
         const { latitude, longitude } = position.coords;
-        const apiKey = 'd664373ce9bf417c96d845885d3b26fc';
+        const apiKey = process.env.REACT_APP_API_KEY;
       
 
         const response = await fetch(`https://api.opencagedata.com/geocode/v1/json?q=${latitude}+${longitude}&key=${apiKey}`);
