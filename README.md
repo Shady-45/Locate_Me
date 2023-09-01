@@ -26,3 +26,5 @@ Locate Me! is a simple Chrome extension built with React, TypeScript, and Tailwi
 ### Deployment
 
 visit https://locateemee.netlify.app/
+
+View by visiting the link https://1drv.ms/v/s!Ak4bPjGmUvq-jR67NwlizRLq3rCd?e=0wqWE4
