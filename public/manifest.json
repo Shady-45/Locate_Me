@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Locate Me!",
   "version": "1.0.0",
-  "description": "This helps you to know your City and Country",
+  "description": "Locate me allows you to easily discover your current city and country by clicking its icon.",
   "icons": {
     "16": "location.png",
     "48": "location.png",
